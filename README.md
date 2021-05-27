@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cretugabriel
-- 👀 I’m interested in learning new programming languages and UI/UX
-- 🌱 I’m currently learning React and Java
+- 👀 I’m interested in the Front-End sector and UI/UX
+- 🌱 I’m currently learning React
 - 📫 How to reach me - on GitHub @cretugabriel ; Linkedin - Gabriel Cretu ; Instagram - @cretugabriel25
 
 <!---
