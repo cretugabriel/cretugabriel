@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @cretugabriel
-- 👀 I’m interested in the Front-End sector and UI/UX
-- 🌱 I’m currently learning React
-- 📫 How to reach me - on GitHub @cretugabriel ; Linkedin - Gabriel Cretu ; Instagram - @cretugabriel25
+Greetings!
 
-<!---
-cretugabriel/cretugabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @cretugabriel
+- 👀 I’m interested in the Front-End sector and UI/UX design
+- 🌱 I’m currently learning React and UI/UX
+- 📫 How to reach me - on GitHub @cretugabriel ; Linkedin - Gabriel Cretu ; Instagram - @cretugabriel25 ; E-Mail: cretugabriel25@gmail.com
+
+Nice to meet ya!
